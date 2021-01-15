@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Deployed App: <a>https://snapchat-clone-3f877.web.app/</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
